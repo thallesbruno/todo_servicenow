@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="situacao" table="x_1623578_todo_app_tasks" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>situacao</element>
+            <name>x_1623578_todo_app_tasks</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-19 14:24:22</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>situacao</sys_name>
+            <sys_package display_value="ToDo App" source="x_1623578_todo_app">8918eff98373d210a42cf4c6feaad386</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ToDo App">8918eff98373d210a42cf4c6feaad386</sys_scope>
+            <sys_update_name>sys_choice_x_1623578_todo_app_tasks_situacao</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-19 14:24:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

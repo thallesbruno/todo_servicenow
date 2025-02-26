@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Todo App 1739975570887</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1623578_todo_app_1739975570887</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 14:32:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1520fb7583b3d210a42cf4c6feaad33b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Todo App 1739975570887</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ToDo App" source="x_1623578_todo_app">8918eff98373d210a42cf4c6feaad386</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ToDo App">8918eff98373d210a42cf4c6feaad386</sys_scope>
+        <sys_update_name>sys_app_module_1520fb7583b3d210a42cf4c6feaad33b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 14:32:52</sys_updated_on>
+        <timeline_page/>
+        <title>Todo App 1739975570887</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ToDo App">8918eff98373d210a42cf4c6feaad386</application>
+        <file_path/>
+        <instance_id>d708578f1b02bd9065324089bd4bcb2d</instance_id>
+        <instance_name>dev195915</instance_name>
+        <name>sys_app_module_1520fb7583b3d210a42cf4c6feaad33b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Todo App 1739975570887</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1623578_todo_app_1739975570887</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 14:32:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1520fb7583b3d210a42cf4c6feaad33b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Todo App 1739975570887</sys_name><sys_overrides/><sys_package display_value="ToDo App" source="x_1623578_todo_app">8918eff98373d210a42cf4c6feaad386</sys_package><sys_policy/><sys_scope display_value="ToDo App">8918eff98373d210a42cf4c6feaad386</sys_scope><sys_update_name>sys_app_module_1520fb7583b3d210a42cf4c6feaad33b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 14:32:52</sys_updated_on><timeline_page/><title>Todo App 1739975570887</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1030796402</payload_hash>
+        <record_name>Todo App 1739975570887</record_name>
+        <reverted_from/>
+        <source>0518eff98373d210a42cf4c6feaad38b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 14:32:52</sys_created_on>
+        <sys_id>9d20fb7583b3d210a42cf4c6feaad33d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1951ea03d280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 14:32:52</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9120fb75cab3d2105895ee4b86c04e3d</update_guid>
+        <update_guid_history>9120fb75cab3d2105895ee4b86c04e3d:-1030796402</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Todo App 1739975570887">776073b583b3d210a42cf4c6feaad35f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 14:34:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>012dac03bf6b45b0800823db08500ca4</sys_id>
+        <sys_metadata>1520fb7583b3d210a42cf4c6feaad33b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Todo App 1739975570887</sys_name>
+        <sys_package display_value="ToDo App" source="x_1623578_todo_app">8918eff98373d210a42cf4c6feaad386</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ToDo App">8918eff98373d210a42cf4c6feaad386</sys_scope>
+        <sys_scope_delete display_value="">179c9d0629bb47589babc851a082cf90</sys_scope_delete>
+        <sys_update_name>sys_app_module_1520fb7583b3d210a42cf4c6feaad33b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_1520fb7583b3d210a42cf4c6feaad33b">9d20fb7583b3d210a42cf4c6feaad33d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 14:34:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
