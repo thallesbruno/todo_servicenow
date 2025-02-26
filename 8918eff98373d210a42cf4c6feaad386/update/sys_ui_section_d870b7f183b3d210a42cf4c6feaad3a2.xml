@@ -4,13 +4,41 @@
             <element>project</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-19 14:34:10</sys_created_on>
-            <sys_id>247073b583b3d210a42cf4c6feaad3be</sys_id>
+            <sys_created_on>2025-02-26 14:42:16</sys_created_on>
+            <sys_id>5b65ff4483c0e210a42cf4c6feaad3f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_to_do" sys_domain="global" view="Default view">d870b7f183b3d210a42cf4c6feaad3a2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-19 14:34:10</sys_updated_on>
+            <sys_updated_on>2025-02-26 14:42:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-26 14:42:16</sys_created_on>
+            <sys_id>1765ff4483c0e210a42cf4c6feaad3f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_to_do" sys_domain="global" view="Default view">d870b7f183b3d210a42cf4c6feaad3a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-26 14:42:16</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>importance</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-26 14:42:16</sys_created_on>
+            <sys_id>9b65ff4483c0e210a42cf4c6feaad3f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_to_do" sys_domain="global" view="Default view">d870b7f183b3d210a42cf4c6feaad3a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-26 14:42:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

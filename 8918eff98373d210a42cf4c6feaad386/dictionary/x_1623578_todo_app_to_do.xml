@@ -3,7 +3,7 @@
         <element display="true" label="To do item" max_length="150" name="to_do_item" type="string"/>
         <element label="Send reminder" max_length="40" name="send" type="boolean"/>
         <element label="Due date" max_length="40" name="due_date" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Project" max_length="40" name="project" reference="x_1623578_todo_app_to_do_project" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Project" mandatory="true" max_length="40" name="project" reference="x_1623578_todo_app_to_do_project" type="reference"/>
         <element label="Assigned to" max_length="32" name="assigned" reference="sys_user" type="reference"/>
         <element choice="3" default="not_started" label="Progress" max_length="40" name="progress" type="choice">
             <choice>
