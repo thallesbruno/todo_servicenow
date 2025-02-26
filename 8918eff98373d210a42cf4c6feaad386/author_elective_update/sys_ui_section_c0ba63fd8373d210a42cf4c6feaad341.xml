@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="c0ba63fd8373d210a42cf4c6feaad341" sys_domain="global" table="x_1623578_todo_app_tasks" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-19 14:09:01</sys_created_on>
+            <sys_id>8cbaa3fd8373d210a42cf4c6feaad388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-19 14:09:01</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_abertura</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-19 14:09:01</sys_created_on>
+            <sys_id>8cbaa3fd8373d210a42cf4c6feaad389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-19 14:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_finalizacao</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-19 14:09:01</sys_created_on>
+            <sys_id>84baa3fd8373d210a42cf4c6feaad38a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-19 14:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-19 14:09:01</sys_created_on>
+            <sys_id>8cbaa3fd8373d210a42cf4c6feaad38a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-19 14:09:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-19 14:09:02</sys_created_on>
+            <sys_id>84baa3fd8373d210a42cf4c6feaad38b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-19 14:09:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>descricao</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-19 14:09:02</sys_created_on>
+            <sys_id>8cbaa3fd8373d210a42cf4c6feaad38b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-19 14:09:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-19 14:09:02</sys_created_on>
+            <sys_id>84baa3fd8373d210a42cf4c6feaad38c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-19 14:09:02</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1623578_todo_app_tasks</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-19 14:09:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0ba63fd8373d210a42cf4c6feaad341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1623578_todo_app_tasks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ToDo App" source="x_1623578_todo_app">8918eff98373d210a42cf4c6feaad386</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ToDo App">8918eff98373d210a42cf4c6feaad386</sys_scope>
+            <sys_update_name>sys_ui_section_c0ba63fd8373d210a42cf4c6feaad341</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-19 14:09:01</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ToDo App">8918eff98373d210a42cf4c6feaad386</application>
+        <file_path/>
+        <instance_id>d708578f1b02bd9065324089bd4bcb2d</instance_id>
+        <instance_name>dev195915</instance_name>
+        <name>sys_ui_section_c0ba63fd8373d210a42cf4c6feaad341</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="c0ba63fd8373d210a42cf4c6feaad341" sys_domain="global" table="x_1623578_todo_app_tasks" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 14:09:01</sys_created_on><sys_id>8cbaa3fd8373d210a42cf4c6feaad388</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 14:09:01</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>data_abertura</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 14:09:01</sys_created_on><sys_id>8cbaa3fd8373d210a42cf4c6feaad389</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 14:09:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>data_finalizacao</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 14:09:01</sys_created_on><sys_id>84baa3fd8373d210a42cf4c6feaad38a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 14:09:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 14:09:01</sys_created_on><sys_id>8cbaa3fd8373d210a42cf4c6feaad38a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 14:09:01</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 14:09:02</sys_created_on><sys_id>84baa3fd8373d210a42cf4c6feaad38b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 14:09:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>descricao</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 14:09:02</sys_created_on><sys_id>8cbaa3fd8373d210a42cf4c6feaad38b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 14:09:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 14:09:02</sys_created_on><sys_id>84baa3fd8373d210a42cf4c6feaad38c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1623578_todo_app_tasks" sys_domain="global" view="Default view">c0ba63fd8373d210a42cf4c6feaad341</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 14:09:02</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1623578_todo_app_tasks</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 14:09:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c0ba63fd8373d210a42cf4c6feaad341</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1623578_todo_app_tasks</sys_name><sys_overrides/><sys_package display_value="ToDo App" source="x_1623578_todo_app">8918eff98373d210a42cf4c6feaad386</sys_package><sys_policy/><sys_scope display_value="ToDo App">8918eff98373d210a42cf4c6feaad386</sys_scope><sys_update_name>sys_ui_section_c0ba63fd8373d210a42cf4c6feaad341</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 14:09:01</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1035174692</payload_hash>
+        <record_name>Tasks</record_name>
+        <reverted_from/>
+        <source>0518eff98373d210a42cf4c6feaad38b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 14:09:02</sys_created_on>
+        <sys_id>48baa3fd8373d210a42cf4c6feaad38e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1951e8a68980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 14:09:02</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>00baa3fdc273d2107d723ae09029a08e</update_guid>
+        <update_guid_history>00baa3fdc273d2107d723ae09029a08e:1035174692,84baa3fdbc73d210089a261a7fd53788:592234499</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 19:25:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1a89b1e31d7b4268a1b541fd5ab30040</sys_id>
+        <sys_metadata>c0ba63fd8373d210a42cf4c6feaad341</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1623578_todo_app_tasks</sys_name>
+        <sys_package display_value="ToDo App" source="x_1623578_todo_app">8918eff98373d210a42cf4c6feaad386</sys_package>
+        <sys_parent display_value="">02aa23fd8373d210a42cf4c6feaad393</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ToDo App">8918eff98373d210a42cf4c6feaad386</sys_scope>
+        <sys_scope_delete display_value="">179c9d0629bb47589babc851a082cf90</sys_scope_delete>
+        <sys_update_name>sys_ui_section_c0ba63fd8373d210a42cf4c6feaad341</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_c0ba63fd8373d210a42cf4c6feaad341">48baa3fd8373d210a42cf4c6feaad38e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 19:25:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

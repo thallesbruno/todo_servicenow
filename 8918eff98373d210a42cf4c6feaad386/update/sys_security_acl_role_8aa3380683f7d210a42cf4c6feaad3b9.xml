@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 19:27:50</sys_created_on>
+        <sys_id>8aa3380683f7d210a42cf4c6feaad3b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1623578_todo_app_to_do_project.x_1623578_todo_app.admin</sys_name>
+        <sys_package display_value="ToDo App" source="x_1623578_todo_app">8918eff98373d210a42cf4c6feaad386</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ToDo App">8918eff98373d210a42cf4c6feaad386</sys_scope>
+        <sys_security_acl display_value="x_1623578_todo_app_to_do_project">c6a3380683f7d210a42cf4c6feaad3b6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8aa3380683f7d210a42cf4c6feaad3b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 19:27:50</sys_updated_on>
+        <sys_user_role display_value="x_1623578_todo_app.admin" name="x_1623578_todo_app.admin">9918eff98373d210a42cf4c6feaad38f</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
